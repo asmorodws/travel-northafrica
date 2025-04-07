@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Tripoli",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Libya",
+    "images": [
+      "https://images.unsplash.com/photo-1600431521323-0e22a6e99c67?q=80&w=1640&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1612277790445-cbcf8ae8b27c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/tripoli"
+  },
+  {
+    "title": "Benghazi",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Libya",
+    "images": [
+      "https://images.unsplash.com/photo-1589462374319-2b3c2d229dd2?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1591627309519-2b0a7cc27e14?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/benghazi"
+  },
+  {
+    "title": "Marrakech",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Morocco",
+    "images": [
+      "https://images.unsplash.com/photo-1586075010924-966fa206e88d?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1610972601305-7980f4741ef0?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/marrakech"
+  },
+  {
+    "title": "Fes",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Morocco",
+    "images": [
+      "https://images.unsplash.com/photo-1621415261293-5d67446ff3b6?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1545420331-e4cfa23e3d07?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/fes"
+  },
+  {
+    "title": "Casablanca",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Morocco",
+    "images": [
+      "https://images.unsplash.com/photo-1603979064066-7776f0d002a4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1601046611805-5611cbd32845?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/casablanca"
+  },
+  {
+    "title": "Rabat",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Morocco",
+    "images": [
+      "https://images.unsplash.com/photo-1587242001300-8e1b63a1d645?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1590761160442-f39e646275b0?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/rabat"
+  },
+  {
+    "title": "Algiers",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Algeria",
+    "images": [
+      "https://images.unsplash.com/photo-1571086360501-8f1c5b013a18?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1606838830464-7bc10be53c82?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/algiers"
+  },
+  {
+    "title": "Tlemcen",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Algeria",
+    "images": [
+      "https://images.unsplash.com/photo-1625253794607-d2a76c9bb982?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1551738160-66167b8d2c9e?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/tlemcen"
+  },
+  {
+    "title": "Tunis",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Tunisia",
+    "images": [
+      "https://images.unsplash.com/photo-1606820110447-dc2dcf0f163b?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1621091211246-9829e4db4f86?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/tunis"
+  },
+  {
+    "title": "Sfax",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Tunisia",
+    "images": [
+      "https://images.unsplash.com/photo-1627653462841-4b6ff6855d5e?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3",
+      "https://images.unsplash.com/photo-1609912796482-f0a7aa510f94?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3"
+    ],
+    "link": "https://example.com/sfax"
+  }
+]
