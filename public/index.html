@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Best in Travel 2025</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@400;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+
+</head>
+
+<body class="section-full">
+  <!-- Loader Component -->
+<tripooly-loader></tripooly-loader>
+
+<!-- JS Loader Component -->
+<div class="section-full overflow-y-scroll snap-y snap-mandatory">
+  <!-- Hero Section -->
+
+    <section
+      class="relative  section-full snap-start flex flex-col bg-cover bg-center pt-[env(safe-area-inset-top)] pb-[env(safe-area-inset-bottom)]"
+      style="background-image: url(https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);">
+      <div class="flex-1 flex flex-col items-center justify-center text-center relative overflow-hidden px-4">
+        <!-- Navbar -->
+        <nav-bar class="block w-full"></nav-bar>
+        
+        <!-- Background Blue Curve -->
+        <div class="absolute bottom-0 w-full h-[75%] sm:h-[80%] opacity-75 bg-blue-700 rounded-t-[60%] z-0"></div>
+        
+        <!-- Content -->
+        <div class="relative z-10 mt-60 text-white">
+          <div class="text-xl font-semibold">2025</div>
+          
+          <h1 class="w-full font-semibold tracking-widest text-white font-['Poppins'] drop-shadow mt-auto">
+            <div
+            class="font-['Playfair_Display'] text-[52px] sm:text-[110px] lg:text-[200px] leading-[0.85] mb-4 drop-shadow w-full">
+            Best in Travel
+          </div>
+          <div
+          class="uppercase font-bold font-['Poppins'] text-[28px] sm:text-[50px] lg:text-[72px] leading-none mb-3">
+          NORTH AFRICA
+            </div>
+          </h1>
+        </div>
+
+        <!-- Scroll Down Icon -->
+        <div class="mt-10 animate-bounce text-white z-10">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mx-auto" fill="none" viewBox="0 0 24 24"
+            stroke="currentColor">
+            <path d="M19 9l-7 7-7-7" />
+          </svg>
+        </div>
+
+      </div>
+    </section>
+    
+    
+    <!-- MODAL FULLSCREEN -->
+    <div id="canvaModal" class="fixed inset-0 bg-black/50 z-50 hidden flex items-center justify-center">
+      <div class="bg-white rounded-2xl w-full max-w-4xl p-6 relative h-[100svh] overflow-y-auto">
+        <!-- Tombol Close -->
+        <button id="closeModal" class="absolute top-4 right-4 text-blue-700 text-2xl font-bold">✕</button>
+        
+        <!-- Tabs -->
+        <div class="flex space-x-2 mb-6">
+          <button class="tab-btn px-4 py-2 rounded-full font-semibold text-white bg-red-800"
+            data-type="country">Countries</button>
+            <button class="tab-btn px-4 py-2 rounded-full border border-blue-500 text-blue-500"
+            data-type="city">Cities</button>
+          </div>
+          
+          <!-- Konten Destinasi -->
+          <div id="tabContent" class="space-y-3 transition-opacity duration-300">
+            <!-- Destinasi akan di-render di sini -->
+        </div>
+
+
+      </div>
+    </div>
+    
+    
+    <!-- Dynamic Destinations -->
+    <div id="destinations"></div>
+    
+    <tripooly-footer></tripooly-footer>
+  </div>
+  <script src="script.js"></script>
+  <script src="components/footer.js"></script>
+  <script src="components/navbar.js"></script>
+  <script src="components/loader.js" defer></script>
+  
+</body>
+
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Tripooly</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@400;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+
+<body class="section-full">
+    <div class="section-full overflow-y-scroll snap-y snap-mandatory">
+<!-- Loader Component -->
+<tripooly-loader></tripooly-loader>
+
+<!-- Hero Section -->
+<section class="section-full snap-start flex items-center justify-center bg-cover bg-center text-white relative"
+            style="background-image: url('https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%20640w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%20750w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%20828w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%201080w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%201200w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%201920w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%202048w,%20https://lonelyplanetstatic.imgix.net/marketing/about/about_us.jpg?auto=format&w=1920&h=1289&q=60%203840w');">
+            <nav-bar></nav-bar>
+            <div class="absolute inset-0 bg-black/40"></div>
+            <div class="z-10 text-center px-4">
+                <div class="py-40 lg:py-52 container text-white text-center">
+                    <h1 class="text-3xl lg:text-5xl font-display font-bold leading-tight lg:leading-none mb-4 lg:mb-6">
+                        About Us</h1>
+                        <h2 class="text-md lg:text-lg">For explorers everywhere.</h2>
+                    </div>
+                </div>
+        </section>
+
+        <!-- Mission Section -->
+        <section
+            class="section-full snap-start flex flex-col justify-center items-center text-center bg-white px-6 py-16">
+            <h2 class="text-3xl font-bold font-['Playfair_Display'] text-blue-700 mb-4">Our Mission</h2>
+            <p class="font-['Poppins'] max-w-3xl text-gray-700 text-lg leading-relaxed">
+                At Tripooly, we believe travel is more than a destination — it’s a story waiting to be told. Our mission
+                is to guide you through North Africa’s vibrant landscapes, rich cultures, and hidden corners, one
+                authentic journey at a time. Whether you're chasing sunsets in the Sahara or wandering through ancient
+                souks, we’re here to help you experience travel with meaning and wonder.
+            </p>
+        </section>
+        <!-- Core Values Section -->
+        <section class="section-full snap-start bg-blue-700 text-white px-6 py-16 text-center">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-4xl md:text-5xl font-bold font-['Poppins'] text-white mb-12 leading-tight">
+                    At Tripooly, our core values guide our journey:
+                </h2>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <!-- Value Card -->
+                    <div class="bg-blue-50 p-6 rounded-2xl text-left shadow-md">
+                        <p class="text-gray-800 font-['Poppins']">
+                            We pursue a vision of North Africa where culture and connection thrive. We believe travel
+                            brings us closer — to people, to stories, and to the soul of a place.
+                        </p>
+                    </div>
+
+                    <!-- Value Card -->
+                    <div class="bg-blue-50 p-6 rounded-2xl text-left shadow-md">
+                        <p class="text-gray-800 font-['Poppins']">
+                            Every journey we curate is rooted in authenticity, respect, and a deep love for discovery —
+                            empowering travelers to explore with purpose.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <tripooly-footer></tripooly-footer>
+    </div>
+    <script src="components/footer.js"></script>
+    <script src="components/navbar.js"></script>
+    <!-- JS Loader Component -->
+    <script src="components/loader.js" defer></script>
+</body>
+
+</html>
