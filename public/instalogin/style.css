@@ -376,8 +376,39 @@
   
   
   
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20%, 60% { transform: translateX(-5px); }
+    40%, 80% { transform: translateX(5px); }
+  }
   
+  @keyframes fadeSlide {
+    0% {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
   
+  .login-error {
+    color: #ed4956;
+    padding: 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-bottom: 15px;
+    animation: fadeSlide 0.4s ease-out;
+  }
+  
+  .input-box input.error {
+    border: 1px solid #ed4956;
+    animation: shake 0.4s;
+    background-color: #fff0f0;
+  }
+  
+
   
   
   

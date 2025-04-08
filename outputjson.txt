@@ -1,0 +1,10 @@
+Saved: ./assets/profile/ordatwins.jpg
+Saved: ./assets/ordatwins.jpg
+{
+  "username": "ordatwins",
+  "profilePic": "../assets/profile/ordatwins.jpg",
+  "postImage": "../assets/ordatwins.jpg",
+  "postUrl": "https://www.instagram.com/p/DH6Om_uIZE5/",
+  "location": "Barcelona",
+  "likes": 4521
+}

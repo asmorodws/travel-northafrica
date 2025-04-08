@@ -4,109 +4,258 @@
     "type": "city",
     "region": "North Africa",
     "country": "Morocco",
-    "images": [
-      "https://images.unsplash.com/photo-1697028654192-7fc892ab2a09?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1737210236835-7f27b8b77384?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "instagram": [
+      {
+        "username": "setteetredieci",
+        "profilePic": "../assets/profile/442214185_961198518667568_1367661979919634119_n.jpg",
+        "postImage": "../assets/442214185_961198518667568_1367661979919634119_n.jpg",
+        "postUrl": "https://www.instagram.com/p/C6rfj08sfaL/",
+        "location": "Marrakech",
+        "likes": 551
+      },
+      {
+        "username": "amele_ij",
+        "profilePic": "../assets/profile/amele_ij.jpg",
+        "postImage": "../assets/amele_ij.jpg",
+        "postUrl": "https://www.instagram.com/p/xxxxxx/",
+        "location": "Marrakech",
+        "likes": 632
+      }
     ],
     "link": "https://example.com/marrakech"
-  },
-  {
-    "title": "Fes",
-    "type": "city",
-    "region": "North Africa",
-    "country": "Morocco",
-    "images": [
-      "https://images.unsplash.com/photo-1727495457967-840cc414b8dc?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1730759214690-5f6e85048f57?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "link": "https://example.com/fes"
-  },
-  {
-    "title": "Algiers",
-    "type": "city",
-    "region": "North Africa",
-    "country": "Algeria",
-    "images": [
-      "https://images.unsplash.com/photo-1706002027900-a1be40d0627e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1604107050756-b5ac1578b0b3?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "link": "https://example.com/algiers"
-  },
-  {
-    "title": "Ghardaïa",
-    "type": "city",
-    "region": "North Africa",
-    "country": "Algeria",
-    "images": [
-      "https://images.unsplash.com/photo-1596616604802-a321eb13a070?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1728043647361-130c44b4da63?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "link": "https://example.com/ghardaia"
   },
   {
     "title": "Tunis",
     "type": "city",
     "region": "North Africa",
     "country": "Tunisia",
-    "images": [
-      "https://images.unsplash.com/photo-1726428977847-b739e1b0c5e5?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1739797351114-49d06969b4cc?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "instagram": [
+      {
+        "username": "albert_comu",
+        "profilePic": "../assets/profile/albert_comu.jpg",
+        "postImage": "../assets/albert_comu.jpg",
+        "postUrl": "https://www.instagram.com/p/DFDvozOObqd/",
+        "location": "Tunis",
+        "likes": 1171
+      },
+      {
+        "username": "explorewithyos",
+        "profilePic": "../assets/profile/explorewithyos.jpg",
+        "postImage": "../assets/explorewithyos.jpg",
+        "postUrl": "https://www.instagram.com/p/tunis1/",
+        "location": "Tunis",
+        "likes": 832
+      }
     ],
     "link": "https://example.com/tunis"
-  },
-  {
-    "title": "Kairouan",
-    "type": "city",
-    "region": "North Africa",
-    "country": "Tunisia",
-    "images": [
-      "https://images.unsplash.com/photo-1723545533080-9f12d71f4255?q=80&w=1586&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1667159162937-366c4c73c6b4?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "link": "https://example.com/kairouan"
   },
   {
     "title": "Tripoli",
     "type": "city",
     "region": "North Africa",
     "country": "Libya",
-    "images": [
-      "https://images.unsplash.com/photo-1639722944824-b62d94878ce1?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1689268578412-87aafd16b310?q=80&w=1531&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "instagram": [
+      {
+        "username": "rawanbaybars",
+        "profilePic": "../assets/profile/rawanbaybars.jpg",
+        "postImage": "../assets/rawanbaybars.jpg",
+        "postUrl": "https://www.instagram.com/p/DFsvO7uMAkg/",
+        "location": "Tripoli",
+        "likes": 775
+      },{
+        "username": "thelebanesearchitect",
+        "profilePic": "../assets/profile/thelebanesearchitect.jpg",
+        "postImage": "../assets/thelebanesearchitect.jpg",
+        "postUrl": "https://www.instagram.com/p/DCjgjHus-Tn/",
+        "location": "Tripoli",
+        "likes": 1637
+      }        
     ],
     "link": "https://example.com/tripoli"
   },
   {
-    "title": "Leptis Magna",
+    "title": "Cairo",
     "type": "city",
     "region": "North Africa",
-    "country": "Libya",
-    "images": [
-      "https://images.unsplash.com/photo-1737210235314-99ef8735b738?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1628790891641-4d930c639f17?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "country": "Egypt",
+    "instagram": [
+      {
+        "username": "ghina.kudsi",
+        "profilePic": "../assets/profile/ghina.kudsi.jpg",
+        "postImage": "../assets/ghina.kudsi.jpg",
+        "postUrl": "https://www.instagram.com/p/DAtaZHotWPC/",
+        "location": "Cairo",
+        "likes": 1502
+      },{
+        "username": "arafa.mahoudd",
+        "profilePic": "../assets/profile/arafa.mahoudd.jpg",
+        "postImage": "../assets/arafa.mahoudd.jpg",
+        "postUrl": "https://www.instagram.com/p/DHJsvlnoZGu/",
+        "location": "Cairo",
+        "likes": 3406
+      }
+      
+      
     ],
-    "link": "https://example.com/leptismagna"
+    "link": "https://example.com/cairo"
   },
   {
-    "title": "Casablanca",
+    "title": "Algiers",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Algeria",
+    "instagram": [
+      {
+        "username": "fayc_art",
+        "profilePic": "../assets/profile/fayc_art.jpg",
+        "postImage": "../assets/fayc_art.jpg",
+        "postUrl": "https://www.instagram.com/p/DIH0530tNS8/",
+        "location": "Algiers",
+        "likes": 732
+      },{
+        "username": "wispa87",
+        "profilePic": "../assets/profile/wispa87.jpg",
+        "postImage": "../assets/wispa87.jpg",
+        "postUrl": "https://www.instagram.com/p/C5Y9RJ1Mj2z/",
+        "location": "Algiers",
+        "likes": 159
+      }
+      
+      
+    ],
+    "link": "https://example.com/algiers"
+  },
+  {
+    "title": "Ouarzazate",
     "type": "city",
     "region": "North Africa",
     "country": "Morocco",
-    "images": [
-      "https://images.unsplash.com/photo-1695965089188-dce747c3ecca?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1671666552704-8f8bf7261d52?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "instagram": [
+      {
+        "username": "ixmaelrueda",
+        "profilePic": "../assets/profile/ixmaelrueda.jpg",
+        "postImage": "../assets/ixmaelrueda.jpg",
+        "postUrl": "https://www.instagram.com/p/DDSOhb0Mr25/",
+        "location": "quarzatate",
+        "likes": 664
+      },{
+        "username": "martpint",
+        "profilePic": "../assets/profile/martpint.jpg",
+        "postImage": "../assets/martpint.jpg",
+        "postUrl": "https://www.instagram.com/p/DGRfBYSCg_u/",
+        "location": "Quarzatate",
+        "likes": 37
+      }
+      
+      
     ],
-    "link": "https://example.com/casablanca"
+    "link": "https://example.com/ouarzazate"
   },
   {
-    "title": "Douz",
+    "title": "Alexandria",
     "type": "city",
     "region": "North Africa",
-    "country": "Tunisia",
-    "images": [
-      "https://images.unsplash.com/photo-1567869802619-a039b188845d?q=80&w=1588&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://images.unsplash.com/photo-1737276812695-a930ae18aec2?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "country": "Egypt",
+    "instagram": [
+      {
+        "username": "ehap.majdo",
+        "profilePic": "../assets/profile/ehap.majdo.jpg",
+        "postImage": "../assets/ehap.majdo.jpg",
+        "postUrl": "https://www.instagram.com/p/DHLXbBCt9Yk/",
+        "location": "Alexandria",
+        "likes": 2262
+      },{
+        "username": "photo_3li",
+        "profilePic": "../assets/profile/photo_3li.jpg",
+        "postImage": "../assets/photo_3li.jpg",
+        "postUrl": "https://www.instagram.com/p/DH5kl_FN0Yn/",
+        "location": "Alexandria",
+        "likes": 174
+      }
+      
+      
     ],
-    "link": "https://example.com/douz"
+    "link": "https://example.com/alexandria"
+  },
+  
+  {
+    "title": "Ghadames",
+    "type": "city",
+    "region": "North Africa",
+    "country": "Libya",
+    "instagram": [
+      {
+        "username": "marin.petrov1c",
+        "profilePic": "../assets/profile/marin.petrov1c.jpg",
+        "postImage": "../assets/marin.petrov1c.jpg",
+        "postUrl": "https://www.instagram.com/p/DDt7IoiMGh8/",
+        "location": "Ghadames",
+        "likes": 209
+      },{
+        "username": "libya_tours.rozaria",
+        "profilePic": "../assets/profile/libya_tours.rozaria.jpg",
+        "postImage": "../assets/libya_tours.rozaria.jpg",
+        "postUrl": "https://www.instagram.com/p/DAzFWv8O0OO/",
+        "location": "Ghadames",
+        "likes": 182
+      }
+      
+      
+    ],
+    "link": "https://example.com/ghadames"
+  },
+  {
+    "title": "Lisbon",
+    "type": "city",
+    "region": "Iberian Peninsula",
+    "country": "Portugal",
+    "instagram": [
+      {
+        "username": "thelumiares",
+        "profilePic": "../assets/profile/thelumiares.jpg",
+        "postImage": "../assets/thelumiares.jpg",
+        "postUrl": "https://www.instagram.com/p/DBzRf9NiS8m/",
+        "location": "Lisbon",
+        "likes": 120
+      }
+      ,
+      {
+        "username": "visiting.lisbon",
+        "profilePic": "../assets/profile/visiting.lisbon.jpg",
+        "postImage": "../assets/visiting.lisbon.jpg",
+        "postUrl": "https://www.instagram.com/p/DIJiPMOJjRA/",
+        "location": "Lisbon",
+        "likes": 958
+      }
+    ],
+    "link": "https://example.com/lisbon"
+  },
+  {
+    "title": "Barcelona",
+    "type": "city",
+    "region": "Iberian Peninsula",
+    "country": "Spain",
+    "instagram": [
+      {
+        "username": "vivek_.vk",
+        "profilePic": "../assets/profile/vivek_.vk.jpg",
+        "postImage": "../assets/vivek_.vk.jpg",
+        "postUrl": "https://www.instagram.com/p/C8t1LhNIKkK/",
+        "location": "Barcelona",
+        "likes": 877
+      }
+      ,
+      {
+        "username": "ordatwins",
+        "profilePic": "../assets/profile/ordatwins.jpg",
+        "postImage": "../assets/ordatwins.jpg",
+        "postUrl": "https://www.instagram.com/p/DH6Om_uIZE5/",
+        "location": "Barcelona",
+        "likes": 4521
+      }
+      
+    ],
+    "link": "https://example.com/barcelona"
   }
+  
 ]
